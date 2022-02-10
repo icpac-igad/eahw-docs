@@ -1,22 +1,22 @@
-Welcome to Lumache's documentation!
+East Africa Hazards Watch
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+.. image:: ./_static/about/situation.svg
+   :align: center
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
-.. note::
+The `East Africa Hazards Watch <https://eahazardswatch.icpac.net/>`_ supports tracking extreme events such as drought, cyclones, pests (desert locust), heavy rainfall, floods or crop failures, which are increasing in frequency and intensity due to climate change.
 
-   This project is under active development.
+The system was developed by a team of Programmers, Climate Scientists, Earth Observation and Systems specialists, as well as Marketing, Design Thinking and sectoral experts to meet the growing need of Risk Information due to increasing climate extremes.
 
-Contents
+.. seealso:: To download a PDF version of this guide use :download:`East Africa Hazards Watch Manual <https://eahazardswatch.readthedocs.io/_/downloads/en/stable/pdf/>` 
+
+
+About
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: About
 
-   usage
-   api
+   /About/general_information

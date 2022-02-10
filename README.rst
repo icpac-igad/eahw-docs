@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
-=======================================
+East Africa Hazards Watch Guide (User and maintenance manual)
+===============================================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Documentation here: https://eahzardswatch.readthedocs.io
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Download Manual PDF https://eahzardswatch.readthedocs.io/_/downloads/en/stable/pdf/

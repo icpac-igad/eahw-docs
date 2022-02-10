@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'East Africa Hazards Watch'
+copyright = '2022, ICPAC'
+author = 'ICPAC'
 
 release = '0.1'
 version = '0.1.0'
@@ -33,3 +33,13 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+html_static_path = ['_static']
+
+master_doc = 'index'
+
+html_theme_options = {
+    'style_nav_header_background':'#13152b',
+    'logo_only':True
+}
+
+html_logo = 'logo_eahw.jpeg'
