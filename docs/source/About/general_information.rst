@@ -43,8 +43,7 @@ The system allows overlapping alerts and warnings with socio-economic informatio
    :align: center
 
 
-
-.. seealso:: To download a PDF version of this guide use :download:`East Africa Hazards Watch Manual <https://eahazardswatch.readthedocs.io/_/downloads/en/stable/pdf/>` 
+.. seealso:: To download a PDF version of this guide use :download:`East Africa Hazards Watch Manual <https://eahazardswatch.readthedocs.io/_/downloads/en/latest/pdf/>` 
 
 
 Authors
